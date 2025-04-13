@@ -35,6 +35,11 @@ body {
   margin-left: 10px;
 }
 
+.about {
+  border: black solid 2px;
+  padding: 20px;
+}
+
 .bold-word {
   font-weight: bold;
 }
@@ -42,3 +47,4 @@ body {
 li {
   margin: 10px;
 }
+
